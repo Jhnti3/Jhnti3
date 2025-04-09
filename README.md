@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Comecei a programar depois de assistir Mr.Robot em 2015<br>⚡ Em busca do fullstack<br>🎲 Back end developer
+💻 Comecei a programar depois de assistir Mr.Robot em 2015<br>⚡ Em busca do fullstack<br>🎲 Web Developer - Back End Developer
 
 
 ## 🌐 Socials:
