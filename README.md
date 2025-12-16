@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 My passion for programming started after i watched Mr. Robot in 2015
-⚡ Road to fullstack  
+⚡ Road to fullstack
 🎲 Software Engineer
 
 ## 🌐 Socials:
