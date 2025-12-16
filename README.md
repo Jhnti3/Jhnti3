@@ -1,7 +1,7 @@
 # 💫 About Me:
-💻 Comecei a programar depois de assistir Mr. Robot em 2015  
-⚡ Em busca do fullstack  
-🎲 Web Developer - Back End Developer
+💻 My passion for programming started after i watched Mr. Robot in 2015
+⚡ Road to fullstack  
+🎲 Software Engineer
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhnwz)  
