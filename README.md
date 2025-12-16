@@ -1,7 +1,11 @@
 # 💫 About Me:
-💻 My passion for programming started after i watched Mr. Robot in 2015
+
+💻 My passion for programming started after I watched Mr. Robot in 2015
+
 ⚡ Road to fullstack
+
 🎲 Software Engineer
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhnwz)  
